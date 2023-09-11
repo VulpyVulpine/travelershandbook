@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<style>
+  @font-face {
+    font-family: offbrandtravelerfont;
+    src:
+      local(DoulosSILCompact-R.ttf),
+      url(https://www.ffonts.net/Doulos-SIL-Compact.font.zip);
+  }
+  @font-face {
+    font-family: dialoguefont;
+    src:
+      local(skechcond.woff)
+      url(https://3.dl.fontke.com/?file=skechcond.woff.ttf&hash=Ul%2BmHkK3amKPaRpAzLhLBbAb9KBWSCJ2b%2FViMoSCzPV%2BNpm%2FbdpG7aIa4xnTj%2FVeYCb5AClTNu0y5Mw4FDPPBSjxbD%2BC5%2Fdfc7msDH4Z9Lc%3D&package=1);
+
+  }
+  h1: offbrandtravelerfont
+  h2: offbrandtravelerfont
+  h3: offbrandtravelerfont
+  h4: offbrandtravelerfont
+  h5: dialoguefont
+  h6: dialoguefont
+</style>
+
+<style>
+
+</style>
+
+<body>
+
+<h1 style="color:white"> TRAVELERS HANDBOOK </h1>
+
+</body>
+</html>
